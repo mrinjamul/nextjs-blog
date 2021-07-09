@@ -1,11 +1,23 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NextJS blog
 
-## workthrough
+A simple blogging website created using NextJS.
+
+## Developments
+
+For Development,
 
 ```shell
-npm install classnames
+npm run dev
 ```
 
+For Production,
+
 ```shell
-npm install tailwindcss postcss-preset-env postcss-flexbugs-fixes
+npm run build
+npm run start
+# built files are located at .next directory.
 ```
+
+## Author
+
+- Injamul M <mrinjamul@gmail.com>
